@@ -1,0 +1,6 @@
+metricName,value
+Weighted precision,0.626316677243729
+Weighted recall,0.601063829787234
+Weighted F1 score,0.6105170990910922
+Weighted false positive rate,0.25042088623289804
+Weighted True positive rate,0.601063829787234
